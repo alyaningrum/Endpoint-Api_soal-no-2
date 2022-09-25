@@ -1,1 +1,1 @@
-# Endpoint-Api_soal-no-2
+http://localhost/soal%202/restapi.php
